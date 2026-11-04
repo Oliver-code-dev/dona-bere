@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.obj
+*.dat
+logs.txt
+temp.dat
+temp_*.dat
